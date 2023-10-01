@@ -12,31 +12,31 @@ https://m3u8.video.matchtv.ru/media/playlist/ch_942428f303b36f950757ec6eeaacf22e
 #EXTINF:-1, НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Пятый канал HD
+#EXTINF:-1, Пятый канал
 https://mhd158.iptv2022.com/p/ViG7apk0bhvZYsk4WOH5iQ,1696234739/streaming/5kanalott/324/5/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1, Россия К HD
+#EXTINF:-1, Россия К
 https://mhd158.iptv2022.com/p/DD6hvukZh6QInqmJvUFTwQ,1696234644/streaming/rossiak/324/5/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1, Россия 24 HD
+#EXTINF:-1, Россия 24
 https://mhd140.iptv2022.com/p/aXtlzjjedETp6jBk1kzZmg,1696234828/streaming/rossia24nn/324/5/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1, Карусель HD
+#EXTINF:-1, Карусель
 https://mhd140.iptv2022.com/p/LjUF2KWPwSv8zTFGI8ub1g,1696234900/streaming/karusel/324/5/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1, ОТР HD
+#EXTINF:-1, ОТР
 https://bl.webcaster.pro/media/playlist/free_a5c03c871b4db3868d92687b76bb0c72/5_2972636396/720p/b9979dfeba8971fc17ea3bacae6638e3/1696190874.m3u8
 
-#EXTINF:-1, ТВ Центр HD
+#EXTINF:-1, ТВ Центр
 https://mhd158.iptv2022.com/p/bVxyey4VqYo4p97OhnB0uw,1696234537/streaming/tvc/324/5/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1, Первый Областной HD
+#EXTINF:-1, Первый Областной
 https://bl.webcaster.pro/media/playlist/free_140eac07a7991aa298f6a236b821adf0_hd/65_97993691/720p/c3ee180611bde15cd97252345bc860ac/4738299574.m3u8
 
 #EXTINF:-1, РенТВ HD 
 https://mhd158.iptv2022.com/p/WnX3L3hwPLwocObgpE_2Eg,1696235678/streaming/rentvott/324/5/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1, Спас HD
+#EXTINF:-1, Спас
 https://mhd158.iptv2022.com/p/P9HNCEzfdDD4-xdwxanzDA,1696236044/streaming/spas/324/5/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1, СТС HD
