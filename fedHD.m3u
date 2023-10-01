@@ -1,0 +1,64 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+
+#EXTINF:-1, Первый канал HD 
+http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Россия 1 HD
+https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+
+#EXTINF:-1, Матч! HD
+https://m3u8.video.matchtv.ru/media/playlist/ch_942428f303b36f950757ec6eeaacf22e/17_86669241/1080/b64d0568437dcc6aa88b5d95502cc4df/1696181400.m3u8
+
+#EXTINF:-1, НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Пятый канал HD
+https://mhd158.iptv2022.com/p/ViG7apk0bhvZYsk4WOH5iQ,1696234739/streaming/5kanalott/324/5/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1, Россия К HD
+https://mhd158.iptv2022.com/p/DD6hvukZh6QInqmJvUFTwQ,1696234644/streaming/rossiak/324/5/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1, Россия 24 HD
+https://mhd140.iptv2022.com/p/aXtlzjjedETp6jBk1kzZmg,1696234828/streaming/rossia24nn/324/5/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1, Карусель HD
+https://mhd140.iptv2022.com/p/LjUF2KWPwSv8zTFGI8ub1g,1696234900/streaming/karusel/324/5/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1, ОТР HD
+https://bl.webcaster.pro/media/playlist/free_a5c03c871b4db3868d92687b76bb0c72/5_2972636396/720p/b9979dfeba8971fc17ea3bacae6638e3/1696190874.m3u8
+
+#EXTINF:-1, ТВ Центр HD
+https://mhd158.iptv2022.com/p/bVxyey4VqYo4p97OhnB0uw,1696234537/streaming/tvc/324/5/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1, Первый Областной HD
+https://bl.webcaster.pro/media/playlist/free_140eac07a7991aa298f6a236b821adf0_hd/65_97993691/720p/c3ee180611bde15cd97252345bc860ac/4738299574.m3u8
+
+#EXTINF:-1, РенТВ HD 
+https://mhd158.iptv2022.com/p/WnX3L3hwPLwocObgpE_2Eg,1696235678/streaming/rentvott/324/5/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1, Спас HD
+https://mhd158.iptv2022.com/p/P9HNCEzfdDD4-xdwxanzDA,1696236044/streaming/spas/324/5/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1, СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+
+#EXTINF:-1, Домашний HD
+http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+
+#EXTINF:-1, ТВ3 HD
+https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
+
+#EXTINF:-1, Пятница! HD
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
+
+#EXTINF:-1, Звезда HD
+https://mhd140.iptv2022.com/p/j1EnGCUso4UbXep5VOP4Gw,1696236703/streaming/zvezda/324/5/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1, Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1, ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+
+#EXTINF:-1, Муз-ТВ HD
+https://mhd158.iptv2022.com/p/KV591gyKuPeCDca2HVJCnw,1696237006/streaming/muztv/324/5/tracks-v5a1/mono.m3u8
