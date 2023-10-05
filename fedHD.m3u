@@ -60,14 +60,8 @@ https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 #EXTINF:-1, Муз-ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
 
-#EXTINF:-1, Новое Радио ТВ
-http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-
 #EXTINF:-1, Первый Областной Орел
 https://bl.webcaster.pro/media/playlist/free_140eac07a7991aa298f6a236b821adf0_hd/65_97993691/720p/c3ee180611bde15cd97252345bc860ac/4738299574.m3u8
 
-#EXTINF:-1 ,Истоки ТВ
+#EXTINF:-1 ,Истоки
 http://istoki.tv:1935/live/efir-istoki.stream/playlist.m3u8
-
-#EXTINF:-1 ,Радио Шансон
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_low/index.m3u8
